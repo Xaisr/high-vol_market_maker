@@ -1,5 +1,7 @@
 # Vol Desk Pro — 7DTE OTM/ATM Market-Making Trainer
 
+<img width="1362" height="698" alt="image" src="https://github.com/user-attachments/assets/d6efc2f0-b463-4b09-b936-33fd6cdcf6ab" />
+
 European option market-making simulator for practicing volatility quoting,
 inventory control, and delta hedging. Desktop GUI for play, headless engine
 for batch runs and Docker practice.
